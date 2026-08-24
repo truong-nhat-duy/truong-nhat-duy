@@ -16,7 +16,7 @@ I am an Applied Economics researcher pursuing Master's degrees in Public Policy 
   - Credit Access & Alternative Credit Scoring in Emerging Markets
   - Household Energy Demand & Policy Evaluation
 - 📫 **How to Reach Me:**
-  - ✉️ Email: [truongnhatduy@gmail.com](mailto:truongnhatduy@gmail.com) | [mpp27.duytruong@student.fulbright.edu.vn](mailto:mpp27.duytruong@student.fulbright.edu.vn)
+  - ✉️ Email: [truongnhatduy@gmail.com](mailto:truongnhatduy@gmail.com)
   - 🔗 LinkedIn: [linkedin.com/in/truongnhatduy](https://linkedin.com/in/truongnhatduy)
   - 📍 Location: Ho Chi Minh City, Vietnam
 
