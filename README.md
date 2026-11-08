@@ -1,38 +1,65 @@
-# Hi there, I'm Truong Nhat Duy 👋
+<div align="center">
 
-**Applied Economics Researcher | Development Economics & Financial Inclusion**
+# Truong Nhat Duy
 
-I am an Applied Economics researcher pursuing Master's degrees in Public Policy at Fulbright University Vietnam and Development Economics at the University of Economics Ho Chi Minh City (UEH). My work focuses on empirical microeconomics, causal inference, household finance, and energy policy.
+**Applied Economics Researcher · Public Policy · Development Economics**
 
----
+Causal inference for tax, household-finance and urban policy in Vietnam
 
-### 📌 About Me
+[LinkedIn](https://linkedin.com/in/truongnhatduy) · [Email](mailto:truongnhatduy@gmail.com) · Ho Chi Minh City, Vietnam
 
-- 🔭 **Currently Working On:** Developing an **Alternative Credit Scoring System (ACSS)** using Big Data and Causal Machine Learning to improve credit access for underserved populations.
-- 🌱 **Currently Learning:** Advanced Econometrics, Causal Machine Learning (Double Machine Learning), and Structural Demand Estimation.
-- 👯 **Looking to Collaborate On:** Research projects in **Financial Inclusion**, **Fintech**, **Energy Economics**, and **Evidence-Based Public Policy**.
-- 💬 **Ask Me About:**
-  - Applied Econometrics (QAIDS, Translog Cost Functions, Endogenous Treatment Effects, Matching Methods)
-  - Credit Access & Alternative Credit Scoring in Emerging Markets
-  - Household Energy Demand & Policy Evaluation
-- 📫 **How to Reach Me:**
-  - ✉️ Email: [truongnhatduy@gmail.com](mailto:truongnhatduy@gmail.com)
-  - 🔗 LinkedIn: [linkedin.com/in/truongnhatduy](https://linkedin.com/in/truongnhatduy)
-  - 📍 Location: Ho Chi Minh City, Vietnam
+</div>
 
 ---
 
-### 🛠️ Research Toolkit & Methodologies
+## About
 
-- **Programming & Data Analysis:** Stata, R, Python (Pandas, NumPy, Scikit-learn), LaTeX
-- **Econometric Methods:** Causal Inference, Structural Demand Modeling (QAIDS), Panel Data Econometrics, Cost Functions (Translog), Matching Methods (PSM), Endogenous Treatment Models
-- **Fields of Interest:** Development Economics, Household Finance, Energy Economics, Health Policy
+I am an applied economist working on evidence-based public policy in Vietnam. I am currently pursuing two master's degrees: a **Master of Public Policy** at Fulbright University Vietnam and a **Master in Development Economics** at the University of Economics Ho Chi Minh City (UEH). Before returning to research, I spent about eleven years in Vietnamese banking in credit analysis and relationship management across corporate, SME and retail portfolios. That work shaped my interest in information asymmetry, borrower screening and what policy actually changes at the firm and household level.
+
+My approach: state the estimand first, choose the simplest design that identifies it, and report what the evidence does not show.
+
+**Long-term goal:** a career as a lecturer and applied policy researcher, teaching econometrics and applied finance and contributing to evidence-based policy for inclusive finance and sustainable urban development.
+
+## Research Interests
+
+| Area | Focus |
+|---|---|
+| **Public economics** | Firm-level effects of Vietnam's 2022–2024 VAT rate reduction (Vietnam Enterprise Survey; DiD, event study, Synthetic DiD) |
+| **Household finance and financial inclusion** | Credit access, housing cost burden and substitution among bank, fintech and informal credit; alternative credit scoring for informal urban workers |
+| **Urban economics** | Metro Line 1 in Ho Chi Minh City: property values and land value capture, separating announcement, construction and operation phases |
+| **Agricultural risk** | Natural disasters, aquaculture livelihoods and subsidised agricultural insurance in the Mekong Delta |
+| **Energy economics** | Household and firm energy demand, inter-fuel substitution, and energy costs and firm performance |
+| **Data engineering** | Reproducible pipelines for Vietnamese listed-company financial data |
+
+## Selected Work
+
+| Project | Description | Status |
+|---|---|---|
+| [**Vietnam's VAT cut and firm performance**](https://truong-nhat-duy.github.io/vat-reduction-impact-post-covid19-vietnam-web/) | Master's thesis (UEH). Bilingual full text, results explorer and policy brief. | Working draft, not peer reviewed |
+| [**Subsidised aquaculture insurance, Mekong Delta**](https://github.com/truong-nhat-duy/subsidised-aquaculture-insurance-mekong-delta) | Why premium-subsidised insurance for shrimp and pangasius does not reach farmers: climate hazards, index-trigger basis risk, risk-based pricing. | Working paper |
+| [**Metro Line 1 and housing prices, HCMC**](https://github.com/truong-nhat-duy/metro1-hcmc-site) | Interactive bilingual site for the Fulbright MPP thesis. | Working draft |
+| [**VietFin Analytics**](https://github.com/truong-nhat-duy/vietfin-analytics) | Modern data stack for the financial statements of listed companies in Vietnam. | In development |
+
+Other work in progress: an alternative credit scoring system for underserved borrowers, household energy demand under time-of-use tariffs (QAIDS), and credit access and urban housing cost burdens.
+
+## Methods and Tools
+
+**Econometrics:** potential outcomes · difference-in-differences and staggered or event-study designs · Synthetic DiD · regression discontinuity · IV/2SLS · panel fixed effects · matching and weighting · synthetic control · endogenous-treatment and selection models · discrete choice · survival models · spatial econometrics · machine learning for prediction and heterogeneous effects
+
+**Software:** Stata · R · Python · SQL · LaTeX (XeLaTeX/Biber) · Power BI · Tableau
+
+**Languages:** Vietnamese (native), English (professional working proficiency)
+
+## Education
+
+- **M.P.P., Fulbright University Vietnam**, 2025–2027
+- **M.A. Development Economics, University of Economics Ho Chi Minh City (UEH)**, 2025–2026
+- **B.A. Economics (Development Economics) and B.A. Finance and Banking, UEH**
+
+## Open to Collaboration
+
+Research projects in financial inclusion and fintech, energy economics, tax policy and evidence-based public policy. Feel free to reach out by email or LinkedIn.
 
 ---
 
-### 🔬 Featured Research Projects
-
-- **Alternative Credit Scoring System (ACSS) using Big Data:** Evaluating machine learning models and non-traditional data to mitigate information asymmetry and enhance credit access.
-- **Household Energy Demand (QAIDS Model):** Estimating system demand for residential energy and analyzing welfare impacts under Time-of-Use (TOU) electricity tariffs in Vietnam.
-- **Credit Access & Urban Housing:** Investigating the impact of credit access on household housing cost burdens in urban Vietnam using endogenous treatment effect models.
-- **Firm-Level Energy Demand:** *Energy Demand and Factor Substitution in Vietnamese Firms* (Estimating elasticity of substitution using Translog cost functions).
+<sub>Project descriptions reflect work in progress; findings are preliminary unless stated otherwise.</sub>
