@@ -31,17 +31,22 @@ My approach: state the estimand first, choose the simplest design that identifie
 | **Energy economics** | Household and firm energy demand, inter-fuel substitution, and energy costs and firm performance |
 | **Data engineering** | Reproducible pipelines for Vietnamese listed-company financial data |
 
-## Selected Work
+## Research Projects
 
-| Project | Description | Status |
-|---|---|---|
-| [**Vietnam's VAT cut and firm performance**](https://truong-nhat-duy.github.io/vat-reduction-impact-post-covid19-vietnam-web/) | Master's thesis (UEH). Bilingual full text, results explorer and policy brief. | Working draft, not peer reviewed |
-| [**Subsidised aquaculture insurance, Mekong Delta**](https://github.com/truong-nhat-duy/subsidised-aquaculture-insurance-mekong-delta) | Why premium-subsidised insurance for shrimp and pangasius does not reach farmers: climate hazards, index-trigger basis risk, risk-based pricing. | Working paper |
-| [**Metro Line 1 and housing prices, HCMC**](https://github.com/truong-nhat-duy/metro1-hcmc-site) | Interactive bilingual site for the Fulbright MPP thesis. | Working draft |
-| [**VietFin Analytics**](https://github.com/truong-nhat-duy/vietfin-analytics) | Modern data stack for the financial statements of listed companies in Vietnam. | In development |
+Listed by period (latest start first). Periods for the four coursework and proposal projects come from file timestamps. All work is unpublished and not peer reviewed unless stated.
 
-Other work in progress: an alternative credit scoring system for underserved borrowers, household energy demand under time-of-use tariffs (QAIDS), and credit access and urban housing cost burdens.
+| Period | Project | Focus | Status |
+|---|---|---|---|
+| 2026 | [**Vietnam's VAT cut and firm performance**](https://truong-nhat-duy.github.io/vat-reduction-impact-post-covid19-vietnam-web/) | Master's thesis (UEH). Effect of the 2022-2024 VAT cut (10% to 8%) on firm outcomes: DiD, event study, Synthetic DiD. Bilingual full text and policy brief. | Working draft |
+| 2026 | [**Subsidised aquaculture insurance, Mekong Delta**](https://github.com/truong-nhat-duy/subsidised-aquaculture-insurance-mekong-delta) | Why premium-subsidised insurance for shrimp and pangasius does not reach farmers: climate hazards, index-trigger basis risk, risk-based pricing. | Working paper |
+| 2026 | [**Metro Line 1 and housing prices, HCMC**](https://github.com/truong-nhat-duy/metro1-hcmc-site) | Fulbright MPP thesis. Land value capture and property prices across announcement, construction and operation phases. Interactive bilingual site. | Working draft |
+| 2026 - | [**VietFin Analytics**](https://github.com/truong-nhat-duy/vietfin-analytics) | Data stack for the financial statements of listed companies in Vietnam. | In development |
+| Sep 2025 - Oct 2026 | [**Housing affordability in Ho Chi Minh City**](https://github.com/truong-nhat-duy/housing-affordability-hcmc) | Research proposal and code, with Dr. Huynh The Du. | Ongoing |
+| Dec 2025 - Apr 2026 | [**Housing credit constraints, low-income urban households**](https://github.com/truong-nhat-duy/housing-credit-constraints-low-income-households-vietnam) | Credit-policy gap ("missing middle") and housing cost burden; Heckman selection models in Stata. | Proposal and draft |
+| Dec 2025 - Mar 2026 | [**Health insurance and out-of-pocket spending**](https://github.com/truong-nhat-duy/health-insurance-out-of-pocket-spending-vietnam) | Effect of insurance on household out-of-pocket health spending (VHLSS, TVSEP); Health Economics course, UEH. | Course project |
+| Oct - Dec 2025 | [**Residential electricity demand, QAIDS with TOU pricing**](https://github.com/truong-nhat-duy/residential-electricity-demand-qaids-tou-vietnam) | Household electricity demand system with time-of-use tariff variables (VHLSS 2022); Consumer Behaviour course, UEH. | Course project |
 
+Survey microdata (VHLSS, TVSEP, VES) are not distributed in these repositories; see each README for data access.
 ## Methods and Tools
 
 **Econometrics:** potential outcomes · difference-in-differences and staggered or event-study designs · Synthetic DiD · regression discontinuity · IV/2SLS · panel fixed effects · matching and weighting · synthetic control · endogenous-treatment and selection models · discrete choice · survival models · spatial econometrics · machine learning for prediction and heterogeneous effects
@@ -62,4 +67,4 @@ Research projects in financial inclusion and fintech, energy economics, tax poli
 
 ---
 
-<sub>Project descriptions reflect work in progress; findings are preliminary unless stated otherwise.</sub>
+<sub>Project descriptions reflect work in progress; findings are preliminary and not peer reviewed unless stated otherwise.</sub>
